@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Mostra i link di Naneko!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Link di Naneko",
+    "TIP": "Invia `{{prefix}}invite copy` per poter copiare il link di invito!",
+    "ADD": "Invita Naneko",
+    "VOTE": "Vota Naneko",
+    "SUPPORT": "Supporto"
+}

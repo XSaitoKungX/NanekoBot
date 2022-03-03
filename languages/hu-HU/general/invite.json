@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Naneko linkekjeinek megtekintése!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Naneko Linkjei",
+    "TIP": "Írd be a `{{prefix}}invite copy` parancsot, hogy másold a meghívó linket!",
+    "ADD": "Naneko Meghívása",
+    "VOTE": "Szavazás az Atlantára",
+    "SUPPORT": "Támogatást kapni"
+}

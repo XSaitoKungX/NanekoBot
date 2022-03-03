@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Menunjukkan informasi repositori Github Naneko!",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Klik disini untuk mengakses github Naneko",
+    "LANGUAGE": "Bahasa pemrograman",
+    "OWNER": "Pemilik repositori Naneko"
+}

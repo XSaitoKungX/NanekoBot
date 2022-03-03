@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Az Naneko Github adattár információinak megtekintése!",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Ide kattintva elérheted az Naneko github-ját",
+    "LANGUAGE": "Programozási nyelv",
+    "OWNER": "Naneko raktár tulajdonosa"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Menunjukan tautan Naneko!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Tautan Naneko",
+    "TIP": "Kirim `{{prefix}}invite copy` untuk bisa menyalin tautan undangan!",
+    "ADD": "Undang Naneko",
+    "VOTE": "Beri suara untuk Naneko",
+    "SUPPORT": "Dapatkan Bantuan"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Naneko linklerini göster!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Naneko linkleri",
+    "TIP": "Şunu yazarak `{{prefix}}invite copy` davet linkini kopyala!",
+    "ADD": "Naneko'yı Kendi sunucuna ekle",
+    "VOTE": "Naneko'ya oy ver",
+    "SUPPORT": "Destek al"
+}

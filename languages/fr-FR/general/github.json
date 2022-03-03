@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Affiche les informations sur le dépôt Github d'Naneko !",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Cliquez ici pour accéder au GitHub d'Naneko",
+    "LANGUAGE": "Langue de programmation",
+    "OWNER": "Propriétaire du GitHub d'Naneko"
+}
