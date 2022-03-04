@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/XSaitoKungX/NanekoBot/badge)](https://www.codefactor.io/repository/github/xsaitokungx/nanekobot)
 
-> Dieser Bot wird von mehr als 130.000 Discord-Benutzern und mehr als 800 Servern verwendet. (Atlanta)
+> Atlanta-Bot wird von mehr als 130.000 Discord-Benutzern und mehr als 800 Servern verwendet.
 
 Naneko ist ein Open-Source-Discord-Bot, der in JavaScript mit [Discord.js](https://discord.js.org) und [Mongoose](https://mongoosejs.com/docs/api.html) von [XSaitoKungX](https://github.com/XSaitoKungX) codiert wurde.
 Fühl dich frei, dem Repository einen Stern ⭐ zu geben, um das Projekt zu fördern!
