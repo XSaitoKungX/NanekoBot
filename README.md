@@ -88,5 +88,6 @@ Credits für [Atlanta](https://github.com/Androz2091/AtlantaBot):
 
 *   [Discord](https://discord.gg/Za9zxTH)
 *   [Support-Emojis](https://discord.gg/NPkySYKMkN)
-*   [Discord](https://dsc.gg/infinity-support)
+*   [Github](github.com/Androz2091/)
+*   [⭐Atlanta](https://github.com/Androz2091/AtlantaBot)
 *   [Twitter](https://twitter.com/AtlantaBot)
