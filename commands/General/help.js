@@ -1,5 +1,5 @@
-const Command = require("../../base/Command.js"),
-	Discord = require("discord.js");
+const Command = require("../../base/Command");
+const Discord = require("discord.js");
 
 class Help extends Command {
 	constructor (client) {
@@ -8,7 +8,7 @@ class Help extends Command {
 			dirname: __dirname,
 			enabled: true,
 			guildOnly: false,
-			aliases: [ "aide", "h", "commands" ],
+			aliases: [ "aide", "h", "commands", "cmd"],
 			memberPermissions: [],
 			botPermissions: [ "SEND_MESSAGES", "EMBED_LINKS" ],
 			nsfw: false,
@@ -121,7 +121,6 @@ class Help extends Command {
 		}
         
 		embed.addField("\u200B", message.translate("misc:STATS_FOOTER", {
-			donateLink: "https://patreon.com/Androz2091",
 			dashboardLink: "https://dashboard.atlanta-bot.fr",
 			inviteLink: await this.client.generateInvite({
 				permissions: [Discord.Permissions.FLAGS.ADMINISTRATOR]
