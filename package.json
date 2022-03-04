@@ -1,8 +1,8 @@
 {
-    "name": "atlantabot",
+    "name": "naneko",
     "version": "4.12.0",
     "description": "A very complete Discord bot (more than 70 commands) that uses the Discordjs API!",
-    "main": "atlanta.js",
+    "main": "naneko.js",
     "scripts": {
         "start": "node .",
         "lint": "eslint . --ext .js",
@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Androz2091/AtlantaBot.git"
+        "url": "git+https://github.com/XSaitoKungX/NanekoBot.git"
     },
-    "author": "Androz2091",
+    "author": "XSaitoKungX",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/Androz2091/AtlantaBot/issues"
     },
-    "homepage": "https://github.com/Androz2091/AtlantaBot#readme",
+    "homepage": "https://github.com/XSaitoKungX/NanekoBot#readme",
     "dependencies": {
         "@discord-player/extractor": "^3.0.0",
         "@discordjs/opus": "^0.5.0",
@@ -39,7 +39,7 @@
         "discord-giveaways": "^4.4.3",
         "discord-paginationembed": "^2.1.0",
         "discord-player": "^4.1.0",
-        "discord.js": "discordjs/discord.js",
+        "discord.js": "^12.5.3",
         "ejs": "^3.1.3",
         "express": "^4.17.1",
         "express-session": "^1.17.0",
