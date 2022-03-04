@@ -1,6 +1,6 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Naneko" src="https://i.goopics.net/lEENx.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Naneko" src="https://i.pinimg.com/736x/ce/67/88/ce67883c7962f637be17f6e9e1397661--anime-art-girl-kawaii-anime-girl.jpg">  
 
-# Atlanta
+# Naneko
 
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Naneko%20Support)](https://dsc.gg/infinity-support)
 [![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=Naneko%20Emojis)](https://discord.gg/NPkySYKMkN)
