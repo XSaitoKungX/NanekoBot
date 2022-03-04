@@ -3,7 +3,7 @@
 # Naneko
 
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA&label=Naneko%20Support)](https://dsc.gg/infinity-support)
-[![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=Naneko%20Emojis)](https://discord.gg/NPkySYKMkN)
+[![](https://img.shields.io/discord/568120814776614924.svg?logo=discord&colorB=00BFFF&label=Atlanta%20Emojis)](https://discord.gg/NPkySYKMkN)
 [![](https://img.shields.io/badge/discord.js-v13.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/XSaitoKungX/NanekoBot/badge)](https://www.codefactor.io/repository/github/xsaitokungx/nanekobot)
 
